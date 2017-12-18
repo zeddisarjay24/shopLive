@@ -1,2 +1,2 @@
 # shopLive
-school project
+for techfinity project
